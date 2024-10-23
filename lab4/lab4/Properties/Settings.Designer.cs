@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace CG_Lab2.Properties
+namespace lab4.Properties
 {
 
 

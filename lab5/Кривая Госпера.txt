@@ -1,3 +1,0 @@
-A 60 0
-A->A-B--B+A++AA+B-
-B->+A-BB--B-A++A+B

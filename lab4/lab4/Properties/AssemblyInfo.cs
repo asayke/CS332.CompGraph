@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанных со сборкой.
-[assembly: AssemblyTitle("CG Lab2")]
+[assembly: AssemblyTitle("lab4")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("CG Lab2")]
+[assembly: AssemblyProduct("lab4")]
 [assembly: AssemblyCopyright("Copyright ©  2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-[assembly: Guid("79d55a6b-0ebc-4be2-a770-6e1627228dd9")]
+[assembly: Guid("35ca5f6b-2512-4aba-afd2-1b0953f23d0e")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //
@@ -29,5 +29,8 @@ using System.Runtime.InteropServices;
 //      Номер сборки
 //      Редакция
 //
+// Можно задать все значения или принять номера сборки и редакции по умолчанию 
+// используя "*", как показано ниже:
+// [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
